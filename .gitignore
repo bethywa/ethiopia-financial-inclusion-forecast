@@ -1,0 +1,92 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Virtual Environment
+# =========================
+.venv/
+venv/
+ENV/
+env/
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+*.ipynb~
+
+# =========================
+# Data files (raw & processed)
+# Keep folder, ignore contents
+# =========================
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# =========================
+# Model artifacts
+# =========================
+models/*
+!models/.gitkeep
+
+# =========================
+# Reports & figures
+# =========================
+reports/figures/*
+!reports/figures/.gitkeep
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/
+
+# =========================
+# Environment variables
+# =========================
+.env
+.env.*
+
+# =========================
+# Streamlit
+# =========================
+.streamlit/
+
+# =========================
+# OS-specific files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDEs & Editors
+# =========================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =========================
+# Testing & coverage
+# =========================
+.pytest_cache/
+.coverage
+htmlcov/
+
+# =========================
+# Build / distribution
+# =========================
+build/
+dist/
+*.egg-info/
+
+# =========================
+# Temporary files
+# =========================
+tmp/
+temp/
