@@ -170,9 +170,8 @@ pip install -r requirements.txt
 👩‍💻 Developed By
 
 * Bethelihem Weldegebrial
-10 Academy / Kifiya AI Master Program
-
-We thank the program instructors and mentors for their guidance and support.
+ - 10 Academy / Kifiya AI Master Program
+ - We thank the program instructors and mentors for their guidance and support.
 
 
 # 🚀 Future Enhancements
