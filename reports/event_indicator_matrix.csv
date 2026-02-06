@@ -1,0 +1,15 @@
+indicator,ACC_4G_COV,ACC_MM_ACCOUNT,ACC_OWNERSHIP,AFF_DATA_INCOME,GEN_GAP_ACC,USG_MPESA_ACTIVE,USG_MPESA_USERS,USG_P2P_COUNT,USG_TELEBIRR_USERS
+EthioPay effect on P2P Count,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+FX Reform effect on Data Affordability,0.0,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0
+Fayda effect on Account Ownership,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fayda effect on Gender Gap,0.0,0.0,0.0,0.0,-1.0,0.0,0.0,0.0,0.0
+M-Pesa Interop effect on M-Pesa Active Users,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+M-Pesa Interop effect on P2P Count,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+M-Pesa effect on M-Pesa Users,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0
+M-Pesa effect on Mobile Money Account Rate,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Safaricom Price Hike effect on Data Affordability,0.0,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.0
+Safaricom effect on 4G Coverage,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Safaricom effect on Data Affordability,0.0,0.0,0.0,-1.0,0.0,0.0,0.0,0.0,0.0
+Telebirr effect on Account Ownership,0.0,0.0,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Telebirr effect on P2P Transactions,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0
+Telebirr effect on Telebirr Users,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0
