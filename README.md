@@ -1,4 +1,4 @@
-# 🇪🇹 Ethiopia Financial Inclusion Forecast (2011–2027)
+# 🇪🇹 Ethiopia Financial Inclusion Forecast 
 
 **Evidence-based forecasting and interactive analytics for financial inclusion in Ethiopia**
 
@@ -83,7 +83,7 @@ The dashboard is the **main project output**.
 - 🔮 **Forecasts** – 2025–2027 projections with confidence intervals
 - 🎯 **Inclusion Projections** – Progress toward 60% target with scenarios
 
-> 📌 *Add a screenshot or GIF of the dashboard Overview page here if desired.*
+
 
 ### 🚀 Launch Dashboard
 ```bash
@@ -159,13 +159,13 @@ pip install -r requirements.txt
 2. Review generated reports in /reports
 
 3. Launch dashboard:
-   streamlit run dashboard/app.py
+   - streamlit run dashboard/app.py
 
    # 📌 Project Status
 
-Status: ✅ Feature Complete
-Version: 1.0.0
-Last Updated: January 2026
+  - Status: ✅ Feature Complete
+  - Version: 1.0.0
+  - Last Updated: January 2026
 
 👩‍💻 Developed By
 
